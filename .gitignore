@@ -1,0 +1,8 @@
+env/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+env.py
+*.pdf
+data/
+hide/
